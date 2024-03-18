@@ -1,4 +1,3 @@
-```markdown
 # PDF Document Parser and Q&A Generator
 
 This repository contains a tool designed to process PDF documents and convert them into an easily navigable question and answer format. The tool automates the extraction of text from PDFs, breaking it down into coherent paragraphs, generating relevant questions, and providing corresponding answers. The process ensures high data quality through a chain of density methodology that refines the content. Additionally, the tool incorporates an anonymization process to protect sensitive information.
